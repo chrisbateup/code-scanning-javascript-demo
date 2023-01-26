@@ -1,3 +1,5 @@
+[![CodeQL](https://github.com/chrisbateup/code-scanning-javascript-demo/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/chrisbateup/code-scanning-javascript-demo/actions/workflows/github-code-scanning/codeql)
+
 # Code Scanning JavaScript Tutorial
 
 Welcome to the Code Scanning JavaScript Tutorial! This tutorial will take you through how to set up GitHub Advanced Security: Code Scanning as well as interpret results that it may find. The following repository contains vulnerability [CVE-2018-20835](https://github.com/advisories/GHSA-x2mc-8fgj-3wmr) (aka Zip Slip).
